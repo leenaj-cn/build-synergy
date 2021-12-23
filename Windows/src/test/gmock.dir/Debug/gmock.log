@@ -1,0 +1,3 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/test/CMakeLists.txt
+  gmock-all.cc
+  gmock.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\test\Debug\gmock.lib

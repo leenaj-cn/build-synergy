@@ -1,0 +1,7 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/mt/CMakeLists.txt
+  CondVar.cpp
+  Lock.cpp
+  Mutex.cpp
+  Thread.cpp
+  XMT.cpp
+  mt.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\mt\Release\mt.lib

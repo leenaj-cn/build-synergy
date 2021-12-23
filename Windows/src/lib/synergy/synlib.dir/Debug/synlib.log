@@ -1,0 +1,45 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/synergy/CMakeLists.txt
+  App.cpp
+  AppUtil.cpp
+  ArgParser.cpp
+  ArgsBase.cpp
+  Chunk.cpp
+  ClientApp.cpp
+  ClientArgs.cpp
+  ClientTaskBarReceiver.cpp
+  Clipboard.cpp
+  ClipboardChunk.cpp
+  DaemonApp.cpp
+  DragInformation.cpp
+  DropHelper.cpp
+  FileChunk.cpp
+  IClipboard.cpp
+  IKeyState.cpp
+  IPlatformScreen.cpp
+  IPrimaryScreen.cpp
+  KeyMap.cpp
+  KeyState.cpp
+  PacketStreamFilter.cpp
+  PlatformScreen.cpp
+  PortableTaskBarReceiver.cpp
+  ProtocolUtil.cpp
+  Screen.cpp
+  ServerApp.cpp
+  ServerArgs.cpp
+  ServerTaskBarReceiver.cpp
+  StreamChunker.cpp
+  ToolApp.cpp
+  ToolArgs.cpp
+  XScreen.cpp
+  XSynergy.cpp
+  key_types.cpp
+  LanguageManager.cpp
+  protocol_types.cpp
+  AppUtilWindows.cpp
+  wintoastlib.cpp
+  pugixml.cpp
+E:\Projects\GitLab\synergy-core\src\lib\synergy\win32\AppUtilWindows.cpp(199,28): warning C4311: 'type cast': pointer truncation from 'HKL' to 'UINT'
+E:\Projects\GitLab\synergy-core\src\lib\synergy\win32\AppUtilWindows.cpp(199,28): warning C4302: 'type cast': truncation from 'HKL' to 'UINT'
+E:\Projects\GitLab\synergy-core\src\lib\synergy\win32\AppUtilWindows.cpp(199,129): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\GitLab\synergy-core\src\lib\synergy\win32\AppUtilWindows.cpp(218,84): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  synlib.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\synergy\Debug\synlib.lib

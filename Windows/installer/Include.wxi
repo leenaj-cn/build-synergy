@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+    <?define Name="Synergy" ?>
+    <?define Version="1.14.2" ?>
+    <?define Author="Symless Ltd" ?>
+    <?define BinPath="E:/Projects/GitLab/synergy-core/build/bin/$(var.Configuration)" ?>
+    <?define ResPath="E:/Projects/GitLab/synergy-core/res" ?>
+    <?define ExtPath="E:/Projects/GitLab/synergy-core/ext" ?>
+    <?define DisPath="E:/Projects/GitLab/synergy-core/dist" ?>
+    <?if $(var.Platform) = "x64" ?>
+        <?define ProgramFilesFolder="ProgramFiles64Folder" ?>
+        <?define PlatformSimpleName="64-bit" ?>
+        <?define UpgradeGuid="E8A4FA54-14B9-4FD1-8E00-7BC46555FDA0" ?>
+    <?else ?>
+        <?define ProgramFilesFolder="ProgramFilesFolder" ?>
+        <?define PlatformSimpleName="32-bit" ?>
+        <?define UpgradeGuid="BE0B9FD8-45E2-4A8E-A0D8-1F774D074A78" ?>
+    <?endif ?>
+    <?define QtPath="E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\mkspecs\winrt-x86-msvc2015" ?>
+    <?define QtBinPath="$(var.QtPath)\bin" ?>
+    <?define QtPluginsPath="$(var.QtPath)\plugins" ?>
+    <?define OpenSSLPath="$(var.ExtPath)\openssl\windows\$(var.Platform)" ?>
+    <?define OpenSSLBinPath="$(var.OpenSSLPath)\bin" ?>
+</Include>

@@ -1,0 +1,19 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/arch/CMakeLists.txt
+  Arch.cpp
+  ArchConsoleStd.cpp
+  ArchDaemonNone.cpp
+  IArchString.cpp
+  ArchConsoleWindows.cpp
+  ArchDaemonWindows.cpp
+  ArchFileWindows.cpp
+  ArchLogWindows.cpp
+  ArchMiscWindows.cpp
+  ArchMultithreadWindows.cpp
+  ArchNetworkWinsock.cpp
+  ArchSleepWindows.cpp
+  ArchStringWindows.cpp
+  ArchSystemWindows.cpp
+  ArchTaskBarWindows.cpp
+  ArchTimeWindows.cpp
+  XArchWindows.cpp
+  arch.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\arch\Release\arch.lib

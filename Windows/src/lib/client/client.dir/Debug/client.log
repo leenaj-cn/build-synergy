@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/client/CMakeLists.txt
+  Client.cpp
+  ServerProxy.cpp
+  client.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\client\Debug\client.lib

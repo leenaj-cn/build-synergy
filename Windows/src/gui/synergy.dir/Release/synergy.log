@@ -1,0 +1,6 @@
+﻿  Automatic MOC and UIC for target synergy
+  AppConfig.cpp
+  MainWindow.cpp
+  main.cpp
+E:\Projects\GitLab\synergy-core\src\gui\src\MainWindow.cpp(580,72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  synergy.vcxproj -> E:\Projects\GitLab\synergy-core\build\bin\Release\synergy.exe

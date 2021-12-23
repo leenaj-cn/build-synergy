@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\AboutDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\Action.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActionDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActivationDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActivationNotifier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\AddClientDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\AppConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\BaseConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\BonjourWindows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\CancelActivationDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ClientConnection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\CommandProcess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ConfigWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\CoreInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\DataDownloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\FailedLoginDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\Fingerprint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\Hotkey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\HotkeyDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\Ipc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\IpcClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\IpcReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\KeySequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\KeySequenceWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\LicenseManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\QSynergyApplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\QUtility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenSettingsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenSetupModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenSetupView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerConfigDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerConnection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerMessage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\SettingsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\SetupWizard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\SetupWizardBlocker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\SslCertificate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\SynergyLocale.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\TrashScreenWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\TrayIcon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\VersionChecker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\AliasValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\EmptyStringValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\IStringValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\LineEditValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\RegExpValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\ScreenDuplicationsValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\ScreenNameValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\SpacesValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\widgets\ClientStateLabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\gui\src\widgets\ServerStateLabel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\PNK5WDWK6L\qrc_Synergy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\PR4VE6O6XJ\qrc_Languages.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\AboutDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\Action.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActionDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActivationNotifier.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\AddClientDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\AppConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\AppDelegate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\BaseConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\BonjourWindows.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\CancelActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ClientConnection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\CommandProcess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ConfigBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ConfigWriter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\CoreInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\DataDownloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ElevateMode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\FailedLoginDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\Fingerprint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\Hotkey.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\HotkeyDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\Ipc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\IpcClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\IpcReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\KeySequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\KeySequenceWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\LicenseManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\OSXHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ProcessorArch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\QSynergyApplication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\QUtility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\Screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenSettingsDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenSetupModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenSetupView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerConfigDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerConnection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerMessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\SettingsDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\SetupWizard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\SetupWizardBlocker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\SslCertificate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\SynergyLocale.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\TrashScreenWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\TrayIcon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\VersionChecker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\AliasValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\EmptyStringValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\IStringValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\LineEditValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\RegExpValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\ScreenDuplicationsValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\ScreenNameValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\validators\SpacesValidator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\widgets\ClientStateLabel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\gui\src\widgets\ServerStateLabel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_AboutDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_ActionDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_ActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_AddClientDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_CancelActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_FailedLoginDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_HotkeyDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_MainWindowBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_ScreenSettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_ServerConfigDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_SettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_SetupWizardBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Debug\src\ui_SetupWizardBlocker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_AboutDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_ActionDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_ActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_AddClientDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_CancelActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_FailedLoginDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_HotkeyDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_MainWindowBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_ScreenSettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_ServerConfigDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_SettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_SetupWizardBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_Release\src\ui_SetupWizardBlocker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_AboutDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_ActionDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_ActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_AddClientDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_CancelActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_FailedLoginDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_HotkeyDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_MainWindowBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_ScreenSettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_ServerConfigDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_SettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_SetupWizardBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_MinSizeRel\src\ui_SetupWizardBlocker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_AboutDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_ActionDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_ActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_AddClientDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_CancelActivationDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_FailedLoginDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_HotkeyDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_MainWindowBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_ScreenSettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_ServerConfigDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_SettingsDialogBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_SetupWizardBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\include_RelWithDebInfo\src\ui_SetupWizardBlocker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ar-SA.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_bg-BG.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ca-ES.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_cs-CZ.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_cy-GB.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_da-DK.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_de-DE.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_el-GR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_es-ES.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_et-EE.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_fa-IR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_fi-FI.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_fr-FR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_gl-ES.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_he-IL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_hr-HR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_hu-HU.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_id-ID.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_it-IT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ja-JP.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ko-KR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_lt-LT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_lv-LV.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_mr-IN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_nl-NL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_no-NO.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_pl-PL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_pt-BR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_pt-PT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ro-RO.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ru-RU.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sk-SK.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sl-SI.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sq-AL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sr-SP.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sv-SE.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_th-TH.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_tr-TR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_uk-UA.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ur-IN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_vi-VN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_zh-CN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_zh-TW.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\6ebcc254535f1aa49863acfcb747c411\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\ff50f91f97ff0c617d771f483503d226\qrc_Synergy.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\6c40423cce5ae36c2dd01199440da839\qrc_Languages.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\src\gui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\AboutDialogBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActionDialogBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\ActivationDialog.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\AddClientDialogBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\CancelActivationDialog.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\FailedLoginDialog.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\HotkeyDialogBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\MainWindowBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\ScreenSettingsDialogBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\ServerConfigDialogBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\SettingsDialogBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\SetupWizardBase.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\src\SetupWizardBlocker.ui" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\gui\res\Synergy.qrc" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\Languages.qrc" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_ar-SA.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_bg-BG.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_ca-ES.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_cs-CZ.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_cy-GB.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_da-DK.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_de-DE.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_el-GR.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_es-ES.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_et-EE.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_fa-IR.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_fi-FI.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_fr-FR.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_gl-ES.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_he-IL.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_hr-HR.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_hu-HU.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_id-ID.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_it-IT.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_ja-JP.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_ko-KR.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_lt-LT.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_lv-LV.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_mr-IN.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_nl-NL.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_no-NO.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_pl-PL.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_pt-BR.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_pt-PT.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_ro-RO.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_ru-RU.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_sk-SK.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_sl-SI.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_sq-AL.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_sr-SP.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_sv-SE.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_th-TH.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_tr-TR.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_uk-UA.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_ur-IN.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_vi-VN.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_zh-CN.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\res\lang\gui_zh-TW.qm" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\autouic_Debug.stamp" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\autouic_Release.stamp" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\synergy_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\Projects\GitLab\synergy-core\src\gui\res\win\Synergy.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0771C3EF-9916-34DE-9110-81742B91A08E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{76F079B1-9388-3AFD-B524-7B22A3AECB0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D3493FF3-2B6F-306D-94BF-2A1F22F98542}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

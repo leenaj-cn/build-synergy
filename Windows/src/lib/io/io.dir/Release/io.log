@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/io/CMakeLists.txt
+  StreamBuffer.cpp
+  StreamFilter.cpp
+  XIO.cpp
+  io.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\io\Release\io.lib

@@ -1,0 +1,10 @@
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\AC35B32B366B9E8FA84F1F5EFD61989E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Projects/GitLab/synergy-core -BE:/Projects/GitLab/synergy-core/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Projects/GitLab/synergy-core/build/synergy-core.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

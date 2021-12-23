@@ -1,0 +1,11 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/net/CMakeLists.txt
+  IDataSocket.cpp
+  NetworkAddress.cpp
+  SecureListenSocket.cpp
+  SecureSocket.cpp
+  SocketMultiplexer.cpp
+  TCPListenSocket.cpp
+  TCPSocket.cpp
+  TCPSocketFactory.cpp
+  XSocket.cpp
+  net.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\net\Release\net.lib

@@ -1,0 +1,17 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/base/CMakeLists.txt
+  Event.cpp
+  EventQueue.cpp
+  EventTypes.cpp
+  FunctionEventJob.cpp
+  FunctionJob.cpp
+  Log.cpp
+  Path.cpp
+  SimpleEventQueueBuffer.cpp
+  Stopwatch.cpp
+  String.cpp
+  Unicode.cpp
+  XBase.cpp
+  log_outputters.cpp
+E:\Projects\GitLab\synergy-core\src\lib\base\Path.cpp(33,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Projects\GitLab\synergy-core\src\lib\base\Path.cpp(37,96): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  base.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\base\Debug\base.lib

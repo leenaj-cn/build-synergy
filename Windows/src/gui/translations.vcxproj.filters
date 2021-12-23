@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ar-SA.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_bg-BG.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ca-ES.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_cs-CZ.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_cy-GB.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_da-DK.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_de-DE.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_el-GR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_es-ES.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_et-EE.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_fa-IR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_fi-FI.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_fr-FR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_gl-ES.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_he-IL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_hr-HR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_hu-HU.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_id-ID.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_it-IT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ja-JP.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ko-KR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_lt-LT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_lv-LV.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_mr-IN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_nl-NL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_no-NO.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_pl-PL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_pt-BR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_pt-PT.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ro-RO.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ru-RU.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sk-SK.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sl-SI.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sq-AL.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sr-SP.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_sv-SE.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_th-TH.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_tr-TR.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_uk-UA.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_ur-IN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_vi-VN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_zh-CN.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\4b8d3ac16c60dc509dd5b102678da512\gui_zh-TW.qm.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\build\CMakeFiles\0d5e90888b9ea286e6ef2ad17582735d\translations.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\src\gui\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Projects\GitLab\synergy-core\build\src\gui\CMakeFiles\translations" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0771C3EF-9916-34DE-9110-81742B91A08E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

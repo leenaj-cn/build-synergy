@@ -1,0 +1,448 @@
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_AR-SA.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_ar-SA.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_ar-SA.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_BG-BG.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_bg-BG.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_bg-BG.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_CA-ES.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_ca-ES.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_ca-ES.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_CS-CZ.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_cs-CZ.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_cs-CZ.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_CY-GB.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_cy-GB.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_cy-GB.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_DA-DK.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_da-DK.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_da-DK.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_DE-DE.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_de-DE.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_de-DE.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_EL-GR.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_el-GR.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_el-GR.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_ES-ES.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_es-ES.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_es-ES.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_ET-EE.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_et-EE.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_et-EE.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_FA-IR.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_fa-IR.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_fa-IR.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_FI-FI.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_fi-FI.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_fi-FI.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_FR-FR.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_fr-FR.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_fr-FR.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_GL-ES.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_gl-ES.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_gl-ES.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_HE-IL.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_he-IL.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_he-IL.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_HR-HR.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_hr-HR.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_hr-HR.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_HU-HU.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_hu-HU.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_hu-HU.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_ID-ID.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_id-ID.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_id-ID.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_IT-IT.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_it-IT.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_it-IT.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_JA-JP.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_ja-JP.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_ja-JP.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_KO-KR.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_ko-KR.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_ko-KR.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_LT-LT.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_lt-LT.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_lt-LT.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_LV-LV.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_lv-LV.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_lv-LV.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_MR-IN.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_mr-IN.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_mr-IN.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_NL-NL.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_nl-NL.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_nl-NL.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_NO-NO.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_no-NO.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_no-NO.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_PL-PL.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_pl-PL.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_pl-PL.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_PT-BR.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_pt-BR.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_pt-BR.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_PT-PT.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_pt-PT.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_pt-PT.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_RO-RO.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_ro-RO.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_ro-RO.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_RU-RU.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_ru-RU.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_ru-RU.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_SK-SK.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_sk-SK.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_sk-SK.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_SL-SI.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_sl-SI.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_sl-SI.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_SQ-AL.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_sq-AL.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_sq-AL.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_SR-SP.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_sr-SP.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_sr-SP.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_SV-SE.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_sv-SE.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_sv-SE.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_TH-TH.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_th-TH.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_th-TH.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_TR-TR.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_tr-TR.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_tr-TR.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_UK-UA.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_uk-UA.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_uk-UA.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_UR-IN.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_ur-IN.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_ur-IN.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_VI-VN.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_vi-VN.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_vi-VN.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_ZH-CN.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_zh-CN.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_zh-CN.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\4B8D3AC16C60DC509DD5B102678DA512\GUI_ZH-TW.QM.RULE
+setlocal
+E:\workspace\sw\devtools\Agora\Prebuilt\Windows\Qt\5_13_2\x64_2017\bin\lrelease.exe E:/Projects/GitLab/synergy-core/src/gui/res/lang/gui_zh-TW.ts -qm E:/Projects/GitLab/synergy-core/build/src/gui/res/lang/gui_zh-TW.qm
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\BUILD\CMAKEFILES\0D5E90888B9EA286E6EF2AD17582735D\TRANSLATIONS.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\PROJECTS\GITLAB\SYNERGY-CORE\SRC\GUI\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Projects/GitLab/synergy-core -BE:/Projects/GitLab/synergy-core/build --check-stamp-file E:/Projects/GitLab/synergy-core/build/src/gui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

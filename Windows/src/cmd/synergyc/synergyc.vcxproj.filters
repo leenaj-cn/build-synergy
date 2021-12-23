@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\synergyc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\MSWindowsClientTaskBarReceiver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\MSWindowsClientTaskBarReceiver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\synergyc.ico" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\tb_error.ico" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\tb_idle.ico" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\tb_run.ico" />
+    <None Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\tb_wait.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\Projects\GitLab\synergy-core\src\cmd\synergyc\synergyc.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{76F079B1-9388-3AFD-B524-7B22A3AECB0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D3493FF3-2B6F-306D-94BF-2A1F22F98542}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

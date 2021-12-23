@@ -1,0 +1,21 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/platform/CMakeLists.txt
+  MSWindowsClipboard.cpp
+  MSWindowsClipboardAnyTextConverter.cpp
+  MSWindowsClipboardBitmapConverter.cpp
+  MSWindowsClipboardFacade.cpp
+  MSWindowsClipboardHTMLConverter.cpp
+  MSWindowsClipboardTextConverter.cpp
+  MSWindowsClipboardUTF16Converter.cpp
+  MSWindowsDebugOutputter.cpp
+  MSWindowsDesks.cpp
+  MSWindowsDropTarget.cpp
+  MSWindowsEventQueueBuffer.cpp
+  MSWindowsHook.cpp
+  MSWindowsKeyState.cpp
+  MSWindowsPowerManager.cpp
+  MSWindowsScreen.cpp
+  MSWindowsScreenSaver.cpp
+  MSWindowsSession.cpp
+  MSWindowsUtil.cpp
+  MSWindowsWatchdog.cpp
+  platform.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\platform\Debug\platform.lib

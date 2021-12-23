@@ -1,0 +1,19 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/server/CMakeLists.txt
+  BaseClientProxy.cpp
+  ClientListener.cpp
+  ClientProxy.cpp
+  ClientProxy1_0.cpp
+  ClientProxy1_1.cpp
+  ClientProxy1_2.cpp
+  ClientProxy1_3.cpp
+  ClientProxy1_4.cpp
+  ClientProxy1_5.cpp
+  ClientProxy1_6.cpp
+  ClientProxy1_7.cpp
+  ClientProxy1_8.cpp
+  ClientProxyUnknown.cpp
+  Config.cpp
+  InputFilter.cpp
+  PrimaryClient.cpp
+  Server.cpp
+  server.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\server\Debug\server.lib

@@ -1,0 +1,9 @@
+﻿  Building Custom Rule E:/Projects/GitLab/synergy-core/src/lib/ipc/CMakeLists.txt
+  Ipc.cpp
+  IpcClient.cpp
+  IpcClientProxy.cpp
+  IpcLogOutputter.cpp
+  IpcMessage.cpp
+  IpcServer.cpp
+  IpcServerProxy.cpp
+  ipc.vcxproj -> E:\Projects\GitLab\synergy-core\build\src\lib\ipc\Debug\ipc.lib
